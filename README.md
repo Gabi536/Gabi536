@@ -15,6 +15,10 @@
   <img align="center" alt="gabi-JS" height="30" width="35" src="https://github.com/user-attachments/assets/018bca86-dfde-4e1a-bbdf-a586dda9afc4">
   <img align="center" width="30" height="40" alt="gabi-TS" src="https://github.com/user-attachments/assets/e16e1d4b-7e74-4faf-ad87-7e61042b21c1" />
   <img align="center" width="30" height="40" alt="gabi-Mysql" src="https://github.com/user-attachments/assets/feaaca3a-4d58-4872-af13-7888fe28021d" />
+  <img align="center" width="30" height="40" alt="gabi-React" src="https://github.com/user-attachments/assets/a47178f2-a3ca-49a7-80ae-ba2fd0570ab7" />
+  <img align="center" width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/c4ab1ae3-ff8d-41c5-bd7b-72bd6bd041d8" />
+
+
 
 
 
