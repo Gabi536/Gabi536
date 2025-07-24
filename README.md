@@ -12,7 +12,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gabi-JS" height="30" width="30" src="https://github.com/user-attachments/assets/018bca86-dfde-4e1a-bbdf-a586dda9afc4">
+  <img align="center" alt="gabi-JS" height="20" width="30" src="https://github.com/user-attachments/assets/018bca86-dfde-4e1a-bbdf-a586dda9afc4">
   <img align="center" width="30" height="40" alt="gabi-TS" src="https://github.com/user-attachments/assets/e16e1d4b-7e74-4faf-ad87-7e61042b21c1" />
   <img align="center" width="30" height="40" alt="gabi-Mysql" src="https://github.com/user-attachments/assets/feaaca3a-4d58-4872-af13-7888fe28021d" />
 
